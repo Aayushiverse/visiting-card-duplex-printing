@@ -40,6 +40,12 @@ Converted internally using DPI-safe pixel math.
 
 ---
 
+## 📄 Sample Output
+
+![A4 Visiting Card Duplex Output](assets/output_preview.jpeg)
+
+---
+
 ## Input Files
 
 - `front.jpg` — front side of the card  
